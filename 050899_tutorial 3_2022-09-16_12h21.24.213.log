@@ -1,0 +1,189 @@
+2.1662 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+7.0333 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+8.6330 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000018AD43E2EB0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000018AD73E1A30>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.6331 	EXP 	window1: mouseVisible = True
+8.6334 	EXP 	window1: mouseVisible = False
+8.6335 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.6336 	EXP 	window1: recordFrameIntervals = False
+8.7986 	EXP 	window1: recordFrameIntervals = True
+8.9825 	EXP 	Screen (0) actual frame rate measured at 60.00Hz
+8.9826 	EXP 	window1: recordFrameIntervals = False
+11.6424 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.7347 	EXP 	Created target = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='target', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='T', units='height', win=Window(...), wrapWidth=1)
+11.7364 	EXP 	window1: mouseVisible = True
+11.7388 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+11.7393 	EXP 	New trial (rep=0, index=0): None
+11.7483 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=105, pos=array([-0.49016144,  0.18758483]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+11.7514 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=123, pos=array([-0.41679492,  0.29077134]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+11.7546 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=248, pos=array([-0.08576462, -0.11488893]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+11.7564 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=328, pos=array([ 0.09369832, -0.21021164]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+11.7579 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=279, pos=array([-0.34154557,  0.30955343]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+11.7603 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=111, pos=array([-0.04866186,  0.06449419]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+11.7628 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=92, pos=array([0.08671065, 0.03299501]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+11.7645 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=29, pos=array([0.02988963, 0.3871699 ]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+11.7660 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=254, pos=array([ 0.01512258, -0.46088937]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+11.7687 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=34, pos=array([-0.18415329,  0.47012498]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+11.7994 	EXP 	distr: autoDraw = True
+11.7994 	EXP 	distr: autoDraw = True
+11.7994 	EXP 	distr: autoDraw = True
+11.7994 	EXP 	distr: autoDraw = True
+11.7994 	EXP 	distr: autoDraw = True
+11.7994 	EXP 	distr: autoDraw = True
+11.7994 	EXP 	distr: autoDraw = True
+11.7994 	EXP 	distr: autoDraw = True
+11.7994 	EXP 	distr: autoDraw = True
+11.7994 	EXP 	distr: autoDraw = True
+11.7994 	EXP 	fixation: autoDraw = True
+11.7994 	EXP 	target: autoDraw = True
+12.8136 	EXP 	fixation: autoDraw = False
+14.8970 	DATA 	Mouse: Left button down, pos=(1453,86)
+14.8991 	EXP 	New trial (rep=1, index=0): None
+14.9017 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=6, pos=array([-0.26589091,  0.08586463]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+14.9041 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=1, pos=array([ 0.38826818, -0.43899524]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+14.9057 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=346, pos=array([0.33714579, 0.05657097]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+14.9073 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=67, pos=array([0.18631592, 0.39698999]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+14.9090 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=100, pos=array([0.08173957, 0.02069886]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+14.9108 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=35, pos=array([0.38553493, 0.24387577]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+14.9129 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=230, pos=array([-0.49311973, -0.44283987]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+14.9146 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=133, pos=array([ 0.28101835, -0.27117537]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+14.9161 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=40, pos=array([-0.21913259,  0.4449092 ]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+14.9177 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=62, pos=array([ 0.45240838, -0.17253869]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+14.9318 	EXP 	fixation: autoDraw = False
+14.9318 	EXP 	target: autoDraw = False
+14.9318 	EXP 	distr: autoDraw = False
+14.9318 	EXP 	distr: autoDraw = False
+14.9318 	EXP 	distr: autoDraw = False
+14.9318 	EXP 	distr: autoDraw = False
+14.9318 	EXP 	distr: autoDraw = False
+14.9318 	EXP 	distr: autoDraw = False
+14.9318 	EXP 	distr: autoDraw = False
+14.9318 	EXP 	distr: autoDraw = False
+14.9318 	EXP 	distr: autoDraw = False
+14.9318 	EXP 	distr: autoDraw = False
+14.9318 	EXP 	distr: autoDraw = True
+14.9318 	EXP 	distr: autoDraw = True
+14.9318 	EXP 	distr: autoDraw = True
+14.9318 	EXP 	distr: autoDraw = True
+14.9318 	EXP 	distr: autoDraw = True
+14.9318 	EXP 	distr: autoDraw = True
+14.9318 	EXP 	distr: autoDraw = True
+14.9318 	EXP 	distr: autoDraw = True
+14.9318 	EXP 	distr: autoDraw = True
+14.9318 	EXP 	distr: autoDraw = True
+14.9318 	EXP 	fixation: autoDraw = True
+14.9318 	EXP 	target: autoDraw = True
+15.1312 	DATA 	Mouse:  Left button up, pos=(1453,86)
+15.9459 	EXP 	fixation: autoDraw = False
+17.9631 	DATA 	Mouse: Left button down, pos=(1043,1040)
+17.9656 	EXP 	New trial (rep=2, index=0): None
+17.9699 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=74, pos=array([0.34825955, 0.07775636]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+17.9736 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=19, pos=array([ 0.16179085, -0.0126241 ]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+17.9779 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=255, pos=array([-0.44977911, -0.21038315]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+17.9801 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=118, pos=array([0.16365135, 0.08137282]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+17.9817 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=353, pos=array([ 0.48701181, -0.41620815]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+17.9844 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=184, pos=array([0.29425735, 0.02955303]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+17.9864 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=22, pos=array([-0.11707098,  0.17255525]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+17.9885 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=72, pos=array([-0.03080204,  0.21172979]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+17.9904 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=359, pos=array([0.43681255, 0.10357446]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+17.9920 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=310, pos=array([-0.09884676,  0.18049045]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+18.0075 	EXP 	fixation: autoDraw = False
+18.0075 	EXP 	target: autoDraw = False
+18.0075 	EXP 	distr: autoDraw = False
+18.0075 	EXP 	distr: autoDraw = False
+18.0075 	EXP 	distr: autoDraw = False
+18.0075 	EXP 	distr: autoDraw = False
+18.0075 	EXP 	distr: autoDraw = False
+18.0075 	EXP 	distr: autoDraw = False
+18.0075 	EXP 	distr: autoDraw = False
+18.0075 	EXP 	distr: autoDraw = False
+18.0075 	EXP 	distr: autoDraw = False
+18.0075 	EXP 	distr: autoDraw = False
+18.0075 	EXP 	distr: autoDraw = True
+18.0075 	EXP 	distr: autoDraw = True
+18.0075 	EXP 	distr: autoDraw = True
+18.0075 	EXP 	distr: autoDraw = True
+18.0075 	EXP 	distr: autoDraw = True
+18.0075 	EXP 	distr: autoDraw = True
+18.0075 	EXP 	distr: autoDraw = True
+18.0075 	EXP 	distr: autoDraw = True
+18.0075 	EXP 	distr: autoDraw = True
+18.0075 	EXP 	distr: autoDraw = True
+18.0075 	EXP 	fixation: autoDraw = True
+18.0075 	EXP 	target: autoDraw = True
+18.1805 	DATA 	Mouse:  Left button up, pos=(1043,1040)
+19.0116 	EXP 	fixation: autoDraw = False
+20.1951 	DATA 	Mouse: Left button down, pos=(1177,293)
+20.1968 	EXP 	New trial (rep=3, index=0): None
+20.1996 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=329, pos=array([-0.08235675,  0.00728406]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+20.2013 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=349, pos=array([ 0.29414463, -0.1990099 ]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+20.2031 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=344, pos=array([-0.23176287,  0.20391517]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+20.2048 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=359, pos=array([0.30823186, 0.11433114]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+20.2068 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=188, pos=array([0.00652344, 0.17066621]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+20.2088 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=285, pos=array([ 0.01444053, -0.07543494]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+20.2106 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=195, pos=array([-0.18508543,  0.11967082]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+20.2122 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=329, pos=array([-0.14205329,  0.250728  ]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+20.2139 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=319, pos=array([ 0.11498808, -0.41195735]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+20.2154 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=133, pos=array([0.48742284, 0.15759672]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+20.2316 	EXP 	fixation: autoDraw = False
+20.2316 	EXP 	target: autoDraw = False
+20.2316 	EXP 	distr: autoDraw = False
+20.2316 	EXP 	distr: autoDraw = False
+20.2316 	EXP 	distr: autoDraw = False
+20.2316 	EXP 	distr: autoDraw = False
+20.2316 	EXP 	distr: autoDraw = False
+20.2316 	EXP 	distr: autoDraw = False
+20.2316 	EXP 	distr: autoDraw = False
+20.2316 	EXP 	distr: autoDraw = False
+20.2316 	EXP 	distr: autoDraw = False
+20.2316 	EXP 	distr: autoDraw = False
+20.2316 	EXP 	distr: autoDraw = True
+20.2316 	EXP 	distr: autoDraw = True
+20.2316 	EXP 	distr: autoDraw = True
+20.2316 	EXP 	distr: autoDraw = True
+20.2316 	EXP 	distr: autoDraw = True
+20.2316 	EXP 	distr: autoDraw = True
+20.2316 	EXP 	distr: autoDraw = True
+20.2316 	EXP 	distr: autoDraw = True
+20.2316 	EXP 	distr: autoDraw = True
+20.2316 	EXP 	distr: autoDraw = True
+20.2316 	EXP 	fixation: autoDraw = True
+20.2316 	EXP 	target: autoDraw = True
+20.4127 	DATA 	Mouse:  Left button up, pos=(1177,293)
+21.2443 	EXP 	fixation: autoDraw = False
+22.5121 	DATA 	Mouse: Left button down, pos=(416,852)
+22.5148 	EXP 	New trial (rep=4, index=0): None
+22.5186 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=269, pos=array([ 0.18661995, -0.25005112]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+22.5219 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=21, pos=array([-0.29633502,  0.05844949]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+22.5258 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=11, pos=array([0.33568844, 0.03440656]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+22.5285 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=94, pos=array([-0.22533773, -0.12642586]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+22.5304 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=282, pos=array([-0.0723491 ,  0.05044629]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+22.5398 	EXP 	fixation: autoDraw = False
+22.5398 	EXP 	target: autoDraw = False
+22.5398 	EXP 	distr: autoDraw = False
+22.5398 	EXP 	distr: autoDraw = False
+22.5398 	EXP 	distr: autoDraw = False
+22.5398 	EXP 	distr: autoDraw = False
+22.5398 	EXP 	distr: autoDraw = False
+22.5398 	EXP 	distr: autoDraw = False
+22.5398 	EXP 	distr: autoDraw = False
+22.5398 	EXP 	distr: autoDraw = False
+22.5398 	EXP 	distr: autoDraw = False
+22.5398 	EXP 	distr: autoDraw = False
+22.5398 	EXP 	distr: autoDraw = True
+22.5398 	EXP 	distr: autoDraw = True
+22.5398 	EXP 	distr: autoDraw = True
+22.5398 	EXP 	distr: autoDraw = True
+22.5398 	EXP 	distr: autoDraw = True
+22.5398 	EXP 	fixation: autoDraw = True
+22.5398 	EXP 	target: autoDraw = True
+22.7340 	DATA 	Mouse:  Left button up, pos=(416,852)
+23.5432 	EXP 	fixation: autoDraw = False
+24.0970 	DATA 	Mouse: Left button down, pos=(1205,532)
+24.1266 	EXP 	fixation: autoDraw = False
+24.1266 	EXP 	target: autoDraw = False
+24.1266 	EXP 	distr: autoDraw = False
+24.1266 	EXP 	distr: autoDraw = False
+24.1266 	EXP 	distr: autoDraw = False
+24.1266 	EXP 	distr: autoDraw = False
+24.1266 	EXP 	distr: autoDraw = False
+24.2862 	EXP 	window1: mouseVisible = True
